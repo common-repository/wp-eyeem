@@ -1,0 +1,27 @@
+div.eyeem_post
+{
+    display: block;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #999;
+    list-style-image: none;
+	list-style-type: none;
+    padding: 10px 0px;
+}
+
+
+.eyeem_photo
+{
+	margin: 10px;
+}
+
+.eyeem_caption
+{
+	font-weight: bold;
+	color: #999;
+	margin-top: 10px;
+}
+
+.eyeem_link
+{
+	font: Bold;	
+}
